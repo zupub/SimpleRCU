@@ -5,5 +5,5 @@
 视频链接：[https://www.bilibili.com/video/BV1F6LPziEb3](https://www.bilibili.com/video/BV1F6LPziEb3)
 
 ## 参考
-* [CRSF](https://github.com/crsf-wg/crsf/wiki/CRSF_FRAMETYPE_RC_CHANNELS_PACKED)
+* [CRSF](https://github.com/crsf-wg/crsf/wiki)
 * [crsfSerial](https://github.com/BobbyIndustries/crsfSerial)
